@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/snehal gadge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="snehal gadge" height="30" width="40" /></a>
 </p>
+<br><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehalgadge&show_icons=true&locale=en&layout=compact" alt="snehalgadge" /></p>
 
 <br><br><br><br><br>
