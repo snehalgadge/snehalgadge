@@ -14,9 +14,9 @@
 <br>
 
 <h1>Projects</h1>
-- <a href='https://github.com/snehalgadge/FSJS-2.0/blob/main/02_Tailwind%20CSS%20Project/01_Talwind_vscode/index.html'>VS Code Clone</a> <br>
-- <a href='https://github.com/snehalgadge/FSJS-2.0/tree/main/03_JS_assignment/07_Calculator'>Calculator</a><br>
-- <a href='https://github.com/snehalgadge/FSJS-2.0/tree/main/03_JS_assignment/04_Quote_Generator'>Random Quote Generator</a><br>
+- <h2><a href='https://github.com/snehalgadge/FSJS-2.0/blob/main/02_Tailwind%20CSS%20Project/01_Talwind_vscode/index.html'>VS Code Clone</a> </h2><br>
+- <h2><a href='https://github.com/snehalgadge/FSJS-2.0/tree/main/03_JS_assignment/07_Calculator'>Calculator</a></h2><br>
+-<h2> <a href='https://github.com/snehalgadge/FSJS-2.0/tree/main/03_JS_assignment/04_Quote_Generator'>Random Quote Generator</a></h2><br>
 <br>
 
 <h3 align="left">Connect with me:</h3>
