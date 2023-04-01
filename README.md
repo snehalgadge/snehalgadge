@@ -14,7 +14,7 @@
 <br>
 
 <h1>Projects</h1>
-- [VS Code Clone](https://github.com/snehalgadge/FSJS-2.0/blob/main/02_Tailwind%20CSS%20Project/01_Talwind_vscode/index.html) 
+- <a href='https://github.com/snehalgadge/FSJS-2.0/blob/main/02_Tailwind%20CSS%20Project/01_Talwind_vscode/index.html'>VS Code Clone</a> 
 - [Calculator](https://github.com/snehalgadge/FSJS-2.0/tree/main/03_JS_assignment/07_Calculator)
 - [Quote Generator](https://github.com/snehalgadge/FSJS-2.0/tree/main/03_JS_assignment/04_Quote_Generator)
 <br>
