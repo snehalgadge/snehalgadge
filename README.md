@@ -7,6 +7,10 @@
 - 💬 Ask me about **HTML ,CSS, JavaScript, ReactJs**
 
 - 📫 How to reach me **snehalgadge205@gmail.com**
+<p align="center">
+<a href="https://linkedin.com/in/snehal gadge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="snehal gadge" height="30" width="40" /></a>
+</p>
+<br>
 
 <br>
 <h1 align="left">Tech Stack:</h1>
@@ -18,12 +22,7 @@
 <h2>-<a href='https://github.com/snehalgadge/FSJS-2.0/tree/main/03_JS_assignment/07_Calculator'>Calculator</a></h3><br>
 <h2>-<a href='https://github.com/snehalgadge/FSJS-2.0/tree/main/03_JS_assignment/04_Quote_Generator'>Random Quote Generator</a></h3><br>
 <br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/snehal gadge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="snehal gadge" height="30" width="40" /></a>
-</p>
-<br><br>
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehalgadge&show_icons=true&locale=en&layout=compact" alt="snehalgadge" /></p>
 
 <br><br><br>
