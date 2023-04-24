@@ -7,7 +7,8 @@
 - 💬 Ask me about **HTML ,CSS, JavaScript, ReactJs**
 
 - 📫 How to reach me **snehalgadge205@gmail.com**
-<p align="center">
+- <h1>Connect with me"
+<p align="left">
 <a href="https://linkedin.com/in/snehal gadge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="snehal gadge" height="30" width="40" /></a>
 </p>
 <br>
