@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Website developer from India</h3>
 <br>
 
-- 🌱 I’m currently learning **nodejs**
+- 🌱 I’m currently learning **nodejs and Data Structures**
 
 - 💬 Ask me about **HTML ,CSS, JavaScript, ReactJs**
 
