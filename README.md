@@ -21,7 +21,7 @@
 <h1>Projects</h1>
 <h2>-<a href='https://github.com/snehalgadge/FSJS-2.0/tree/main/03_JS_assignment/07_Calculator'>Calculator</a></h3><br>
 <h2>-<a href='https://github.com/snehalgadge/Full-Stack-JavaScript-Projects-2022-/tree/main/04_REACT/tic-tac-toe'>Tic Tac Toe</a></h2><br>
-<h2>-<a href='https://github.com/snehalgadge/Full-Stack-JavaScript-Projects-2022-/tree/main/04_REACT/movie-api'>Random Quote Generator</a></h2><br>
+<h2>-<a href='https://github.com/snehalgadge/Full-Stack-JavaScript-Projects-2022-/tree/main/04_REACT/movie-api'>IMDb Clone</a></h2><br>
 <br>
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehalgadge&show_icons=true&locale=en&layout=compact" alt="snehalgadge" /></p>
