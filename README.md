@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Website developer from India</h3>
 <br>
 
-- 🌱 I’m currently learning **nodejs and Data Structures**
+- 🌱 I’m currently learning **ReactJs and Data Structures**
 
 - 💬 Ask me about **HTML ,CSS, JavaScript, ReactJs**
 
@@ -19,9 +19,9 @@
 <br>
 
 <h1>Projects</h1>
-<h3>-<a href='https://github.com/snehalgadge/FSJS-2.0/blob/main/02_Tailwind%20CSS%20Project/01_Talwind_vscode/index.html'>VS Code Clone</a></h3><br>
 <h2>-<a href='https://github.com/snehalgadge/FSJS-2.0/tree/main/03_JS_assignment/07_Calculator'>Calculator</a></h3><br>
-<h2>-<a href='https://github.com/snehalgadge/FSJS-2.0/tree/main/03_JS_assignment/04_Quote_Generator'>Random Quote Generator</a></h3><br>
+<h2>-<a href='https://github.com/snehalgadge/Full-Stack-JavaScript-Projects-2022-/tree/main/04_REACT/tic-tac-toe'>Tic Tac Toe</a></h2><br>
+<h2>-<a href='https://github.com/snehalgadge/Full-Stack-JavaScript-Projects-2022-/tree/main/04_REACT/movie-api'>Random Quote Generator</a></h2><br>
 <br>
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehalgadge&show_icons=true&locale=en&layout=compact" alt="snehalgadge" /></p>
