@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **ReactJs and Data Structure **
 
-- 💬 Ask me about **HTML ,CSS, JavaScript, ReactJs**
+- 💬 Ask me about **JavaScript, ReactJs and Data Structures**
 
 - 📫 How to reach me **snehalgadge205@gmail.com**
 - <h1>Connect with me"
